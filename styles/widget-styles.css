@@ -1,0 +1,30 @@
+#widget-thumb-size{
+    width: 35%;
+}
+.tf-small-text{
+    width: 35px;
+}
+
+#widget-thumb-size input[type=radio]{
+    float: right;
+}
+.post-title {
+}
+.single-post {
+
+    margin: 10px 0;
+
+}
+.post-thumb img{
+    padding-right: 2px;
+}
+
+.single-post:after {
+    display: block;
+    content: "";
+    clear: both;
+}
+
+.read-more{
+    font-size: 12px;
+}
